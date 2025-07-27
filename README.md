@@ -1,3 +1,8 @@
+# 💬 Gemini Chatbot UI – My First AI Internship Task!
+
+Welcome to my first AI project built during my internship at **Aiwallah**! 🚀
+
+This chatbot UI was built using **Next.js**, **TypeScript**, **Tailwind CSS**, and integrates the **Gemini 2.5 Flash API** to simulate a real AI chat experience.
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +39,18 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🌐 Live Demo
+
+Check out the live version here: [https://gemini-chatbot-ui.vercel.app](https://gemini-chatbot-ui.vercel.app)
+## ⚠️ Known Issues
+
+- Response time is slightly delayed due to Gemini's API latency.
+- Sometimes Gemini doesn't return a valid message (fallback added).
+- Only text-based interaction is supported for now (no image/video input).
+## 🤝 Contributing
+
+Pull requests are welcome! If you have ideas to improve the UI, optimize API calls, or add more features, feel free to open an issue or PR.
+
+For major changes, please open an issue first to discuss what you would like to change.
+#AI #Internship #GenAI #GeminiAPI #NextJS #React #TailwindCSS #TypeScript #OpenSource #WebDev #WomenWhoCode #Hackathon #Aiwallah
+
