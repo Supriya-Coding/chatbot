@@ -1,6 +1,4 @@
-# 💬 Gemini Chatbot UI – My First AI Internship Task!
-
-Welcome to my first AI project built during my internship at **Aiwallah**! 🚀
+# 💬 Gemini Chatbot UI 
 
 This chatbot UI was built using **Next.js**, **TypeScript**, **Tailwind CSS**, and integrates the **Gemini 2.5 Flash API** to simulate a real AI chat experience.
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
